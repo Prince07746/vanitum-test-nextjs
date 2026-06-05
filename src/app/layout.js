@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Vanitum Test Suite',
   description: 'Next.js test application for Vanitum platform',
